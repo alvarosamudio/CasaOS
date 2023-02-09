@@ -5,7 +5,6 @@ go 1.16
 require (
 	github.com/Microsoft/go-winio v0.5.0 // indirect
 	github.com/Microsoft/hcsshim v0.8.22 // indirect
-	github.com/PuerkitoBio/goquery v1.7.0
 	github.com/StackExchange/wmi v0.0.0-20210224194228-fe8f1750fd46 // indirect
 	github.com/bits-and-blooms/bitset v1.2.1 // indirect
 	github.com/containerd/containerd v1.5.7
@@ -15,7 +14,7 @@ require (
 	github.com/docker/go-connections v0.4.0
 	github.com/forease/gotld v0.0.0-20190808124948-c50ff635576b
 	github.com/gin-contrib/gzip v0.0.2
-	github.com/gin-gonic/gin v1.7.2
+	github.com/gin-gonic/gin v1.7.7
 	github.com/go-ini/ini v1.62.0
 	github.com/go-ole/go-ole v1.2.5 // indirect
 	github.com/go-openapi/spec v0.20.4 // indirect
@@ -52,7 +51,7 @@ require (
 	github.com/smartystreets/goconvey v1.6.4 // indirect
 	github.com/spf13/afero v1.2.2
 	github.com/swaggo/gin-swagger v1.3.0
-	github.com/swaggo/swag v1.7.3
+	github.com/swaggo/swag v1.7.3 // indirect
 	github.com/tidwall/gjson v1.10.2
 	github.com/tklauser/go-sysconf v0.3.6 // indirect
 	github.com/ugorji/go v1.2.6 // indirect
