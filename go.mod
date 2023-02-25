@@ -5,7 +5,6 @@ go 1.16
 require (
 	github.com/Microsoft/go-winio v0.5.0 // indirect
 	github.com/Microsoft/hcsshim v0.8.22 // indirect
-	github.com/PuerkitoBio/goquery v1.7.0
 	github.com/StackExchange/wmi v0.0.0-20210224194228-fe8f1750fd46 // indirect
 	github.com/bits-and-blooms/bitset v1.2.1 // indirect
 	github.com/containerd/containerd v1.5.7
@@ -52,7 +51,7 @@ require (
 	github.com/smartystreets/goconvey v1.6.4 // indirect
 	github.com/spf13/afero v1.2.2
 	github.com/swaggo/gin-swagger v1.3.0
-	github.com/swaggo/swag v1.7.3
+	github.com/swaggo/swag v1.7.3 // indirect
 	github.com/tidwall/gjson v1.10.2
 	github.com/tklauser/go-sysconf v0.3.6 // indirect
 	github.com/ugorji/go v1.2.6 // indirect
@@ -61,7 +60,7 @@ require (
 	golang.org/x/mod v0.5.0 // indirect
 	golang.org/x/net v0.0.0-20211020060615-d418f374d309 // indirect
 	golang.org/x/oauth2 v0.0.0-20210819190943-2bc19b11175f
-	golang.org/x/sys v0.0.0-20211020174200-9d6173849985 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b // indirect
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac // indirect
 	golang.org/x/tools v0.1.7 // indirect
